@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-24T23:51:50.754Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50" etag="Gh-w5DVQogcMMa8iT63M" version="17.4.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-04-24T23:52:37.095Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50" etag="8yO6RkJRZu9zk0FS-P0n" version="17.4.3" type="github" pages="5">
   <diagram id="RM8uT4gPKpHOiD7eG6m6" name="Basic_01">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -624,7 +624,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="9sBes5zoStHbwO6hxoa-" name="DataBase Replication_05">
-    <mxGraphModel dx="3015" dy="1222" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2436" dy="1222" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -677,7 +677,7 @@
           <mxGeometry x="84.23" y="716" width="80.77" height="140" as="geometry" />
         </mxCell>
         <mxCell id="X4Z6A1dMwaEJLl_pE78_-15" value="웹서버1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="99.99999999999999" y="892" width="80" height="20" as="geometry" />
+          <mxGeometry x="94.99999999999999" y="892" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="X4Z6A1dMwaEJLl_pE78_-16" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=3;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="-50" y="1061" width="740" height="430" as="geometry" />
@@ -692,13 +692,13 @@
           <mxGeometry x="84.23" y="716" width="80.77" height="140" as="geometry" />
         </mxCell>
         <mxCell id="X4Z6A1dMwaEJLl_pE78_-20" value="웹서버2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="275.39" y="894" width="80" height="20" as="geometry" />
+          <mxGeometry x="262" y="892" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="X4Z6A1dMwaEJLl_pE78_-21" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.traditional_server;" vertex="1" parent="1">
           <mxGeometry x="279.61" y="716" width="80.77" height="140" as="geometry" />
         </mxCell>
         <mxCell id="X4Z6A1dMwaEJLl_pE78_-22" value="웹서버3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="449" y="892" width="80" height="20" as="geometry" />
+          <mxGeometry x="409.61" y="892" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="X4Z6A1dMwaEJLl_pE78_-23" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.traditional_server;" vertex="1" parent="1">
           <mxGeometry x="465" y="716" width="80.77" height="140" as="geometry" />
